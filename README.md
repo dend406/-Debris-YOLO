@@ -41,7 +41,6 @@ It combines:
 ## 📂 Project Structure
 
 project/
-│
 ├── main_video.py # basic real-time inference
 ├── main_mqtt.py # full system (GPS + MQTT)
 ├── best_openvino_model/ # optimized model
