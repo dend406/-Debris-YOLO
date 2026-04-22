@@ -38,18 +38,6 @@ It combines:
 
 ---
 
-## 📂 Project Structure
-
-project/
-├── main_video.py # basic real-time inference
-├── main_mqtt.py # full system (GPS + MQTT)
-├── best_openvino_model/ # optimized model
-├── detections.csv # logged detections
-└── README.md
-
-
----
-
 ## 🎥 1. Video Inference (main_video.py)
 
 Basic script for testing YOLO detection on Raspberry Pi.
